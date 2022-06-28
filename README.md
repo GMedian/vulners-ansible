@@ -1,5 +1,7 @@
 # Vulners Ansible Plugin
 
+## The repo has moved to https://github.com/vulnersCom/vulners-ansible
+
 ## Introduction
 
 This repo hosts the `vulners` Ansible Collection.
